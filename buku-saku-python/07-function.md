@@ -1,3 +1,7 @@
+---
+description: Materi ini kita akan membahas tentang function di Python.
+---
+
 # 07 Function
 
 ### Apa itu Function?
